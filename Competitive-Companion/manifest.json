@@ -1,0 +1,15 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img.png"
+   },
+   "description": "Copy CodeChef test-cases in a Click.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnPe3aYbcWl/Qoo7EPyYFipJP6OX1SFaoEGE9jtf7C2aDWyR38Iqq2kWTio7Bty/45OLM34ARFAqpumU5rOWXtwNLZj2n1o0JMdEMilRdwlGED34CztfH9taO69bFPYNwPvFsg3D7PS4GvHIJuog+DzYCIjxuzBwdv68eioMcrzclhOEJzmGfeJ3TP9c6xlu6bCgcCJozhlGMlzcSj5/JBzJa0cn8qmSRY4sSPxYutdzQ3oQwwoafIMfeTShHm+Xq0KNGPlQnCn8JeQWacB0AO/WhqdKr9PEQk+yV1CsrVhvKNFw79KSBW49keOHf6oTZt7j0KbDxjE2Rnw1UpyVfuQIDAQAB",
+   "manifest_version": 2,
+   "name": "Competitive Companion",
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
